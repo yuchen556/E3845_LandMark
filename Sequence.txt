@@ -1,0 +1,7 @@
+1. 继电器开机电源
+2. Keyboard 发送1 and 发送 回车
+3. Keyboard 发送 Ctrl+Alt+Shift 重启
+4. Keyboard 发送 Del key
+5. 图像识别 是不是BIOS 版本信息
+
+104 seconds BIOS upgrade successfully!
